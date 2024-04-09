@@ -1,0 +1,26 @@
+.box1 {
+    width: 300px;
+    height: 100px;
+    background-color: red;
+}
+
+.box2 {
+    width: 50%;
+    height: 80px;
+    background-color: #fcc;
+}
+
+html {
+    font-size: 14px;
+}
+
+body {
+    font-size: 1.2em;
+}
+
+h1 {
+    font-size: 1.5em;
+    border-inline-start: 3px solid #f33;
+    /* direction: rtl; */
+    writing-mode: vertical-rl;
+}
